@@ -80,7 +80,7 @@ D --> E
 
 Dataset file:
 
-dataset/material.xlsx
+[dataset/material.xlsx](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/dataset/material.xlsx)
 
 Dataset characteristics:
 
@@ -155,46 +155,6 @@ D --> E
   ```
   python src/exercise7.py
   ```
-
-# Script Index
-
-  ------------------------------------------------------------------------------------------------------------------------------------------------------
-  Script             Purpose                  Download
-  ------------------ ------------------------ ----------------------------------------------------------------------------------------------------------
-  exercise1_a.py     Basic output program     [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise1_a.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%201.a.py)
-
-  exercise1_b.py     Circle area computation  [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise1_b.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%201.b.py)
-
-  exercise2_a.py     Cube surface area        [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise2_a.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%202.a.py)
-
-  exercise2_b.py     Sphere calculations      [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise2_b.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%202.b.py)
-
-  exercise2_c.py     Employee pay computation [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise2_c.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%202.c.py)
-
-  exercise3_a.py     Population growth model  [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise3_a.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%203.a.py)
-
-  exercise3_b.py     GCD Euclidean algorithm  [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise3_b.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%203.b.py)
-
-  exercise3_c.py     Input series statistics  [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise3_c.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%203.c.py)
-
-  exercise3_d.py     Exponential function     [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise3_d.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%203.d.py)
-
-  exercise3_e.py     Factorial computation    [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise3_e.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%203.e.py)
-
-  exercise3_f.py     Minimum age detection    [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise3_f.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%203.f.py)
-
-  exercise5_a.py     List summation           [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise5_a.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%205.a.py)
-
-  exercise5_b.py     Absolute value           [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise5_b.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%205.b.py)
-                     transformation           
-
-  exercise5_c.py     Even number detection    [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise5_c.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%205.c.py)
-
-  exercise5_d.py     Range summation function [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise5_d.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise%205.d.py)
-
-  exercise7_a.py       Moving average           [https://raw.githubusercontent.com/nomanmridha/Advanced-Analytics-Python-Exercise/main/src/exercise7.py](https://github.com/nomanmridha/Advanced-Analytics-Python-Exercise/blob/main/src/Exercise_7_a.py)
-                     forecasting              
-  ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ---
 
